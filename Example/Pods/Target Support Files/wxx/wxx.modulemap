@@ -1,0 +1,6 @@
+framework module wxx {
+  umbrella header "wxx-umbrella.h"
+
+  export *
+  module * { export * }
+}
